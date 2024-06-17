@@ -1,1 +1,1 @@
-node index.js bugang
+node index.js mytest
